@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "assets\\davidbr4gg.github.io-master\\assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "E-portfolio",
+		"liveServer.settings.port": 5501
+	}
+}
